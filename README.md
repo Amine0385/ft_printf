@@ -40,14 +40,6 @@ int main(void)
 }
 ```
 
-## Running Tests ✅
-
-Test files are included to validate the `ft_printf` functionality. Run the tests with:
-
-```bash
-make tests
-```
-
 ## Development Notes ✍️
 
 This project adheres to the `Norme42` coding standard, which enforces strict rules on line length, indentation, and function complexity.
@@ -58,7 +50,7 @@ Feel free to propose changes or report issues! Fork the repository, make your up
 
 ## Author 👨‍💻
 
-- **Amine0385**
+- **mohamed amine bouskhair**
 
 ---
 
